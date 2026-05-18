@@ -128,3 +128,4 @@ C:\Users\user\Documents\solutions\solutionEFcore\project01\obj\Debug\net8.0\refi
 C:\Users\user\Documents\solutions\solutionEFcore\project01\obj\Debug\net8.0\project01.pdb
 C:\Users\user\Documents\solutions\solutionEFcore\project01\obj\Debug\net8.0\project01.genruntimeconfig.cache
 C:\Users\user\Documents\solutions\solutionEFcore\project01\obj\Debug\net8.0\ref\project01.dll
+C:\Users\user\Documents\solutions\solutionEFcore\project01\obj\Debug\net8.0\project01.sourcelink.json
